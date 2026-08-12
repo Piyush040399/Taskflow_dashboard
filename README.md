@@ -17,13 +17,14 @@ The application allows users to view, add, update, complete, and delete tasks wh
 # Steps to setup project in local
 
 1. Clone the GitHub Repository
-git clone <your-github-repository-url>
+
+-git clone <your-github-repository-url>
 
 2. Navigate to the Project Directory
-cd taskflow-dashboard
+-cd taskflow-dashboard
 
 3. Install Dependencies
-npm install
+-npm install
 
 4. Start the Development Server
-npm run dev
+-npm run dev
