@@ -21,10 +21,13 @@ The application allows users to view, add, update, complete, and delete tasks wh
 -git clone <your-github-repository-url>
 
 2. Navigate to the Project Directory
+
 -cd taskflow-dashboard
 
 3. Install Dependencies
+
 -npm install
 
 4. Start the Development Server
+
 -npm run dev
